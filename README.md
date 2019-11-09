@@ -1,4 +1,8 @@
 # Hotel-Reservation-System
-A computer program written in PHP as well as in Javascript where users can find the cheapest hotel from a given data structure containing hotel name and its prices.
+A computer program written in 3 languages (Python, PHP, JavaScript) as a part of my personal project.
 
-logic.php - The PHP version and jProgram.html - The Javascript version( run the file in a browser )
+The program is all about users finding the cheapest hotel from a data structure containing hotel name and its prices.
+
+hotel.py - The Python version
+logic.php - The PHP version
+jProgram.html - The JavaScript version( run the file in a browser )
